@@ -1,7 +1,7 @@
 pipelines:
   - name: WH_PIPE_8569_0001
     steps:
-      - nameWH_PIPE_8569_0001
+      - name: WH_PIPE_8569_0001
         type: Bash
         execution:
           onExecute:
